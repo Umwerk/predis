@@ -1,3 +1,7 @@
+# About this repository #
+umwerk/predis adds failover on slave failure, until this will officially be supported in Predis 1.1.0.
+Use at your own risk!
+
 # Predis #
 
 [![Latest Stable Version](https://poser.pugx.org/predis/predis/v/stable.png)](https://packagist.org/packages/predis/predis)
