@@ -1,18 +1,23 @@
 {
-    "name": "predis/predis",
+    "name": "umwerk/predis",
     "type": "library",
     "description": "Flexible and feature-complete PHP client library for Redis",
     "keywords": ["nosql", "redis", "predis"],
-    "homepage": "http://github.com/nrk/predis",
+    "homepage": "http://github.com/Umwerk/predis",
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/nrk/predis/issues"
+        "issues": "http://github.com/Umwerk/predis/issues"
     },
     "authors": [
         {
             "name": "Daniele Alessandri",
             "email": "suppakilla@gmail.com",
             "homepage": "http://clorophilla.net"
+        },
+        {
+            "name": "Vincent Sommer",
+            "email": "vincent.sommer@umwerk.net",
+            "homepage": "http://www.umwerk.com"
         }
     ],
     "require": {
